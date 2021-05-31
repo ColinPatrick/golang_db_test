@@ -1,0 +1,1 @@
+Just figuring out how to work with MySQL and enviornment variables when it comes to Go.
